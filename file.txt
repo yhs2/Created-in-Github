@@ -1,1 +1,13 @@
 Darwin shus-MacBook-Air.local 20.6.0 Darwin Kernel Version 20.6.0: Mon Aug 30 06:12:20 PDT 2021; root:xnu-7195.141.6~3/RELEASE_ARM64_T8101 arm64
+
+
+
+
+
+
+
+
+
+
+
+
